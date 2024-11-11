@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WidgetCoUser", "WidgetCoUser.csproj", "{7332FCEC-EE8A-4BE7-A13F-DB19361FA91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7332FCEC-EE8A-4BE7-A13F-DB19361FA91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7332FCEC-EE8A-4BE7-A13F-DB19361FA91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7332FCEC-EE8A-4BE7-A13F-DB19361FA91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7332FCEC-EE8A-4BE7-A13F-DB19361FA91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83E58E6C-D3CD-4CC3-B61F-FDC1092A8575}
+	EndGlobalSection
+EndGlobal
